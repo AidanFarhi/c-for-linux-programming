@@ -9,7 +9,7 @@ Version: 0.1
 // Variables for later use in the program
 int a, b, c;
 
-// Function definition
+// Function prototype
 int product(int x, int y);
 
 int main(void)
